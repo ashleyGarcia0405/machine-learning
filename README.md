@@ -1,0 +1,1 @@
+This is going to help me track my learning of ML topics in my courses and outside of courses. I will probably start with some more application-based stuff because I have a couple of pending projects, but then I'm going to pick up Reinforcement Learning, Causal Inference, and Computational Learning Theory.
